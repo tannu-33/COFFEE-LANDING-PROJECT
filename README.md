@@ -1,1 +1,1 @@
-Coffee handing project using HTML and CSS
+Coffee Landing project using HTML and CSS
